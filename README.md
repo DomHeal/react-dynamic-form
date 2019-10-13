@@ -4,7 +4,7 @@ A dynamic form generator which can currently create input fields, radio buttons,
 
 ![Example](public/example.png)
 
-```json
+```json5
 
 const exampleData = [
     {
